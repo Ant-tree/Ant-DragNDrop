@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AntDragNDropDemo</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Remove</string>
+    <string name="desc">Welcome to AntDragNDrop Demo\n\nYou can delete or reorder the card by long-pressing it\n\nSize of each cards will be determined dynamically, according to the number of cards.\nIf there are too many numbers of cards, size will be fixed in order to provide better user experience.</string>
+</resources>
