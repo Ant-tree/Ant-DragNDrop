@@ -1,6 +1,8 @@
 # Ant-DragNDrop
 Drag-N-Drop-able list with recycler view
 
+<table>
+
 <tr>
 <td>
 Swipe change (reorder)
@@ -22,7 +24,8 @@ For bigger items
 </td>
 <td>
 <img src="Assets/deletion.gif" alt="selectable">
-</td><td>
+</td>
+<td>
 <img src="Assets/longlist.gif" alt="selectable">
 </td>
 </tr>
